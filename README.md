@@ -15,7 +15,7 @@ Este es un aplicativo de consola desarrollado en Node.js para gestionar tareas p
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tuusuario/04-tareas.git
+   git clone https://github.com/castilloxavie/tareas-_consola.git
    cd 04-tareas
    ```
 
