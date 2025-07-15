@@ -1,5 +1,5 @@
 node_modules/
 .env
-db/datos.json
+#b/datos.json
 *.log
 .DS_Store
