@@ -40,6 +40,22 @@ Sigue las instrucciones del menú interactivo.
 - Si quieres empezar con una base de datos vacía, elimina el contenido de ese archivo.
 - Puedes modificar el archivo `.gitignore` para evitar subir tus datos personales.
 
+## Cómo ejecutar la app en Replit
+
+Abre el enlace:
+https://replit.com/@xavier-albertoa/tareas-consola-1
+
+Inicia sesión en Replit
+(o crea una cuenta gratuita si no tienes una).
+
+Haz clic en el botón "Remix this app"
+Esto creará una copia del proyecto en tu cuenta.
+
+Haz clic en el botón verde "Run"
+Así podrás usar la app desde la consola interactiva.
+
+
+
 ## Despliegue
 
 Este aplicativo está pensado para ejecutarse localmente en la terminal. Si deseas ejecutarlo en la nube, puedes usar servicios como [Replit](https://replit.com/) o [GitHub Codespaces](https://github.com/features/codespaces).
