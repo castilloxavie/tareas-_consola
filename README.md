@@ -29,7 +29,7 @@ Este es un aplicativo de consola desarrollado en Node.js para gestionar tareas p
 Ejecuta la aplicación con:
 
 ```sh
-node app.js
+node index.js
 ```
 
 Sigue las instrucciones del menú interactivo.
